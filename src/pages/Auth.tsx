@@ -84,7 +84,7 @@ const Auth = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-navy-900 via-navy-800 to-navy-900 flex items-center justify-center p-4">
       <Card className="w-full max-w-md bg-white/5 backdrop-blur-xl border-gold-500/20">
-        <CardHeader className="text-center space-y-4">
+        <CardHeader className="text-center space-y-4 border-slate-200">
           <div className="mx-auto w-16 h-16 bg-gradient-to-br from-gold-400 to-gold-600 rounded-2xl flex items-center justify-center shadow-lg">
             <Hotel className="w-8 h-8 text-navy-900" />
           </div>
